@@ -70,9 +70,9 @@ Contributions are welcome! If you have improvements or additional features, subm
 Happy payload building! 🚀💻
 
 ## Stay Connected
-📧 **Email:** your.email@example.com
-📺 **YouTube Channel:** [InfoSecXplorer](https://www.youtube.com/@InfoSecXplorer)
-💬 **Discord:** [Join the Conversation](https://discord.gg/4xB4PebCTJ)
+📧 **Email:** your.email@example.com  
+📺 **YouTube Channel:** [InfoSecXplorer](https://www.youtube.com/@InfoSecXplorer)  
+💬 **Discord:** [Join the Conversation](https://discord.gg/4xB4PebCTJ)  
 👨‍💻 **GitHub:** [GitHub Repository](https://github.com/YourUsername/WinPayloadBuilder)  
 🌐 **Website:** [Visit Our Website](https://yourwebsite.com)  
 📢 **Telegram:** [Your Telegram Channel](https://t.me/your_telegram_channel)  
