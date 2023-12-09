@@ -89,7 +89,7 @@ WinPayloadBuilder empowers users with a toolset for ethical and responsible secu
 12. **Access Windows Command Prompt:**
     - Gain Windows command prompt access.
 
-For a detailed walkthrough, watch the [WinPayloadBuilder Tutorial Video](#).
+For a detailed walkthrough, watch the [WinPayloadBuilder Tutorial Video](https://youtu.be/cpcBBPyPtZA).
 
 ## Support
 If you encounter any issues or have questions, feel free to open an [issue](https://github.com/InfoSecXplorer/WinPayloadBuilder/issues).
