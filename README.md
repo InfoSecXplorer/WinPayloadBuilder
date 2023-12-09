@@ -62,7 +62,7 @@ WinPayloadBuilder empowers users with a toolset for ethical and responsible secu
 
 4. **Run WinPayloadBuilder:**
     ```bash
-    python3 WinPayloadBuilder.py
+    python WinPayloadBuilder.py
     ```
 
 5. **Enter IP address and Port Number:**
